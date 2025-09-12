@@ -1,5 +1,6 @@
 package example.arrays;
 
+
 public class ArrayExample {
 
 	public static void main(String[] args) {
@@ -25,6 +26,7 @@ public class ArrayExample {
 			}
 		}
 		System.out.println("maximum mark is "+max);
+		System.out.println("minimum mark is "+marks[0]);
 	}
 
 }
